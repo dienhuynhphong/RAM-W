@@ -1,0 +1,1695 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sentences>
+	<sentence id="1351">
+		<text>món lẩu kim chi thịt heo làm từ kim chi đung chuẩn hàn quốc nên rất đậm đà , ai ăn cay dở như mình thì đừng gọi nha .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="lẩu kim chi" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1352">
+		<text>anh chủ dễ thương , vui tính lắm .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="anh chủ" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1355">
+		<text>giá hơi hơi cao xí .</text>
+		<Opinions>
+			<Opinion category="FOOD#PRICES" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="giá" polarity="negative" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+	
+	<sentence id="1357">
+		<text>không gian thì nhóm mình ngồi ở phía dưới tầng trệt , nói chung cũng yên tĩnh , không có ồn ào lắm .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="không gian" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1358">
+		<text>tết nhất nên quán phục vụ chậm quá , rất chậm luôn ấy .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="phục vụ" polarity="negative" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1360">
+		<text>đói gần chết , phục vụ cũng xao nhãng nhiều lắm , nhắc đi nhắc lại 02 03 lần mới nhớ để mà đem lên món mình cần .  </text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="phục vụ" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+	
+	<sentence id="1362">
+		<text>mì tương đen thì ôi thôi , chắc món đó không hợp với mình , ăn 1 đũa là thôi không muốn ăn nữa luôn đó .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="mì tương đen" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1363">
+		<text>mình là đã ăn rất lạt rồi , mà mì này kiểu lạt phèo , khó ăn muốn chết .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="cơm nắm" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1365">
+		<text>còn món cuối là canh kim chi thịt heo cay muốn chết.</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="neutral" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="canh kim chi" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1369">
+		<text>giá ở đây cũng khá cao chứ không phải rẻ , theo mình thì papa's ăn ngon hơn , phục vụ cũng nhanh hơn nhiều .</text>
+		<Opinions>
+			<Opinion category="FOOD#PRICES" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="giá" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1372">
+		<text>không gian quán hơi nhỏ , mình đến phải đợi 1 lúc mới có bàn , bạn nào có đi thì nên gọi đặt bàn sẵn đặt món trước luôn vì ở đây lên món cực kì lâu .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="không gian" polarity="negative" from="0" to="0"/>
+             <aspectTerm term="lên món" polarity="negative" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1374">
+		<text>gà rút xương ăn ngon thấm đều và cay , ngược lại gà rán ăn rất ngán vì ướp gà chưa thấm đều ăn đến bên trong rất lạt lại không có kèm với sốt .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="gà rút xương" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="gà rán" polarity="negative" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1375">
+		<text>tokbokki ăn cũng bình thường như quán khác không co gì đặc biệt .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="neutral" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="tokbokki" polarity="neutral" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1376">
+		<text>ở đây anh chủ quán người hàn quốc cực kì dễ thương , khi mình uống rước soju còn lấy thêm cái bình khác để đựng , nhưng còn chị phục vụ nữa thì hơi khó chịu , không vui tính , niềm nở .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="neutral" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="anh chủ quán" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1377">
+		<text>giá ở đây mình thấy hơi mắc một chút .</text>
+		<Opinions>
+			<Opinion category="FOOD#PRICES" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="giá" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1378">
+		<text>gửi xe miễn phí .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="gửi xe" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1379">
+		<text>quán hơi nhỏ nhưng không gian thoáng mát , chủ quán người hàn nhiệt tình , vui vẻ .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="không gian" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1380">
+		<text>có 1 chị phục vụ rất dễ thương , giới thiệu các món nên ăn rất chu đáo .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="chị phục vụ" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1381">
+		<text>món ăn kèm chỉ có 2 món thôi à , hơi ít .</text>
+		<Opinions>
+			<Opinion category="RESTAURANT#GENERAL" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="món ăn kèm" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1382">
+		<text>các món gà rất ngon ... .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="món gà" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1387">
+		<text>gà xào hành hơi ngọt nhưng rất đặc biệt</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="gà xào hành" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1388">
+		<text>gà sốt đậu thì ngon khỏi phải nói</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="gà sốt đậu" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1389">
+		<text>trứng hấp thì hơi lớn nhưng ăn ngon .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="trứng hấp" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1390">
+		<text>phần ăn ở đây hơi lớn .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="phần ăn" polarity="negative" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1392">
+		<text>chủ quán ở đây rất thân thiện.</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="chủ quán" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1393">
+		<text>gà giòn nhưng ngọt quá , nếu thêm cay và bớt ngọt đi sẽ ngon hơn.</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="neutral" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="gà" polarity="neutral" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1394">
+		<text>thịt ba chỉ nướng ngon , sốt ngon , thịt cũng ngon.</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="thịt ba chỉ" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="sốt" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1395">
+		<text>kimchi , bắp cải tạm ổn.</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="neutral" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="kimchi" polarity="neutral" from="0" to="0"/>
+             <aspectTerm term="bắp cải" polarity="neutral" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1396">
+		<text>có soju nhưng lại không có rượu gạo .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="neutral" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="soju" polarity="neutral" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1397">
+		<text>không gian quán như beerclub , có chum đựng cá vàng nhìn vui vui.</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="không gian" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1398">
+		<text>nhân viên phục vụ cực nhiệt tình.</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="nhân viên" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1399">
+		<text>giá tiền thì so với sinh viên thì hơi đắt nhưng với mặt bằng quận 1 thì giá vậy là ok.</text>
+		<Opinions>
+			<Opinion category="FOOD#PRICES" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="giá tiền" polarity="neutral" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1401">
+		<text>không gian độc đáo , món ăn ngon , giá thì hơi chát xíu .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+			<Opinion category="FOOD#PRICES" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="không gian" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="món ăn" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="giá" polarity="negative" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1402">
+		<text>thích gà rán với thịt nướng .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="gà rán" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="thịt nướng" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1403">
+		<text>nhân viên với cả ông chủ rất thân thiện , vui vẻ.</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="nhân viên" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="ông chủ" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1405">
+		<text>quán rất dễ tìm .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="quán" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1406">
+		<text>cô quản lý khá dễ thương .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="cô quản lý" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1416">
+		<text>mình thích nhất món thịt ba chỉ nướng .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="thịt ba chỉ nướng" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1420">
+		<text>có điều nhà vệ sinh không được sạch , nam nữ phải đi chung .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="nhà vệ sinh" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1421">
+		<text>quán này có món gà rán hàn quốc khá nổi tiếng.</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="món gà rán" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1422">
+		<text>không gian 1 trêt 1 lầu .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="neutral" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="không gian" polarity="neutral" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1427">
+		<text>gà barbos ăn cực ngon các bạn nhé ! !</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="gà barbos" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1428">
+		<text>không gian lại vô cùng đẹp và nghệ , các bạn thich chup hình có thể đến đây vì phông nền chất miễn bàn thức ăn mang đậm phong cách hàn quốc , giá 1 phần thì hơi cao hơn các quán gà hàn quốc khác ở việt nam , ăn thì cũng chưa đủ no trong khi chỉ nửa phần ở papa hay chao chicken thì đã no ú khự rồi .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+			<Opinion category="FOOD#PRICES" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="không gia" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="giá" polarity="negative" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1430">
+		<text>à và cả nhân viên phục vụ nhiều khi cũng chưa nhiệt tình nữa ! !</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="phục vụ" polarity="negative" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1431">
+		<text>thức ăn ở quán được , ngon .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="thức ăn" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1432">
+		<text>điểm đặc sắc là không gian vô cùng đẹp , rất hàn quốc , thích hợp cho những bạn muốn có một phông nền lạ để chụp ảnh .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="không gian" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1433">
+		<text>có điều giá cả hơi mắc hơn so với papa chicken , chao chicken ( cũng là những quán gà hàn quốc ) ...</text>
+		<Opinions>
+			<Opinion category="FOOD#PRICES" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="giá cả" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1434">
+		<text>nói chung bạn nào thích không gian sang , đẹp , chất thì barbos là lựa chọn hoàn hảo .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="không gian" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1437">
+		<text>không gian quán cũng không lớn lắm nhưng có 2 tầng , bàn ghế phong cách beer club , ngồi cao .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="không gian" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1439">
+		<text>các bạn nhân viên rất nhanh nhẹn và lịch sự đón khách .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="nhân viên" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1440">
+		<text>anh chủ người hàn cũng vui tính , chụp hình dùm mình .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="anh chủ" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1443">
+		<text>món thứ 2 là món thịt heo nướng , vị ăn được , béo béo , thơm thơm ... . nhưng mình thấy hơi ngán nếu ăn 2 người , vì 1 dĩa khá nhiều , phần này ăn 3 người được .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="thịt heo nướng" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1444">
+		<text>giữ xe miễn phí</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="giữ xe" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1445">
+		<text>quán khá là dễ thương , bàn ghế ngồi như beer club nên không gian cũng thoáng , khá thoải mái , bày trí nhiều thứ lạ và bắt mắt .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="không gian" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1447">
+		<text>cơm xào bò thì cũng bình thường , không phải là ngon nhưng ăn cũng tạm được.</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="neutral" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="cơm xào bò" polarity="neutral" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1448">
+		<text>gà 1 phần tuy giá khoảng 200 mấy mình không nhớ rõ nữa nhưng rất là nhiều , nhiều lắm .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="neutral" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="gà" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1450">
+		<text>tính ra thì rẻ hơn kfc mà chất lượng hơn nhiều lần .</text>
+		<Opinions>
+			<Opinion category="FOOD#PRICES" polarity="positive" target="NULL" from="0" to="0"/>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="chất lượng" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1451">
+		<text>gà có vị ji đó ăn rất lạ mà không ngán , thích cánh gà chiên giòn , ăn siêu ngon .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="gà" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1452">
+		<text>mình tính vốn không ăn khoai tây chiên nhiều nhưng khoai tây ở đây đặc biệt ngon , cái sốt chấm chua chua ngọt ngọt làm mình ăn không thấy ngán .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="khoai tây" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="sốt chấm" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1453">
+		<text>phục vụ ở đây rất nhiệt tình , thân thiện .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="phục vụ" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1457">
+		<text>barbos có thêm nhiều thức uống smoothies và plan cafe ngon lắm nha !</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="smoothies" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="plan cafe" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1458">
+		<text>quán cũng dễ tìm không gian thì như quán bar vậy dễ thương lắm .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="quán" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="không gian" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1459">
+		<text>giá cả thì rẻ hơn gogi với papa nhưng mà bạn mình nói gà sốt cay không bằng tại nó không chiên giòn như bên kia .</text>
+		<Opinions>
+			<Opinion category="FOOD#PRICES" polarity="positive" target="NULL" from="0" to="0"/>
+			<Opinion category="FOOD#GENERAL" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="giá cả" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="gà sốt cay" polarity="negative" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1460">
+		<text>mấy món khác ăn cũng được lắm tokbokki có nhiều chả cá lắm ăn mãi không hết luôn á .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="mấy món khác" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1462">
+		<text>ông chủ quán rất dễ thương tụi mình đang dùng thì qua hỏi có ngon không giọng lơ lớ rất là cute .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="ông chủ quán" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1463">
+		<text>nhân viên thì thân thiện</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="nhân viên" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1464">
+		<text>khoai tây bơ tỏi ngon cực .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="khoai tây bơ tỏi" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1465">
+		<text>gà cũng ngon .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="gà" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1466">
+		<text>giá không rẻ .</text>
+		<Opinions>
+			<Opinion category="FOOD#PRICES" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="giá" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1468">
+		<text>không gian dễ chịu .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="không gian" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1470">
+		<text>đồ ăn ngon , chất và lượng đều ok .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="đồ ăn" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="chất và lượng" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1473">
+		<text>đến phần phục vu dễ thương và nhiệt tình từ nhân viên đến chủ .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="phục vu" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1474">
+		<text>ông chủ rất chịu khó tiếp đãi khách .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="ông chủ" polarity="negative" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1478">
+		<text>quán khá rẻ khi đi nhóm .</text>
+		<Opinions>
+			<Opinion category="FOOD#PRICES" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="rẻ" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1480">
+		<text>mình thích nhất là món gà sốt cay , ăn rất vừa miệng cay cay uống với bia hết sảy luôn .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="gà sốt cay" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1481">
+		<text>quán decor đẹp , lạ .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="decor" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1482">
+		<text>nhân viên phục vụ cũng rất dễ thương , mình ấn tượng nhất là với ông chủ quán .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="phục vụ" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="ông chủ" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1484">
+		<text>món kim chi hết xảy !</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="kim chi" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1486">
+		<text>thiệt là đã thịt ba chỉ cũng rất là ngon !</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="cơm nắm" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1487">
+		<text>chủ quán nhân viên đều thân thiện , không gian quán rất ấm cúng !</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="nhân viên" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="không gian" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1489">
+		<text>soup kim chi gây thất vọng , gà luộc gì đó cũng vậy .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="soup kim chi" polarity="negative" from="0" to="0"/>
+             <aspectTerm term="gà luộc" polarity="negative" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1490">
+		<text>được cái khoai tây vẫn ngon .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="khoai tây" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1491">
+		<text>đồ ăn ngon , uống bia thật đã .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="đồ ăn" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1493">
+		<text>giá cả đi theo nhóm 3-4 người thì chi phí cũng khá là ok .</text>
+		<Opinions>
+			<Opinion category="FOOD#PRICES" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="giá cả" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1494">
+		<text>lại được miễn phí soup kim chi dùng thử nữa .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="soup kim chi" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1495">
+		<text>chắc chắn sẽ quay lại vì bé quản lý và nhân viên rất nhiệt tình chu đáo .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="quản lý" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="nhân viên" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1496">
+		<text>khoai tây và bia ở đây ngon lắm nha.</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="khoai tây" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="bia" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1497">
+		<text>súp chả cá hàn quốc theo công thức mới .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="súp chả cá" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1498">
+		<text>ăn ở đây nhiều lần và rất thích hài lòng về món ăn cũng như phục vụ .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="món ăn" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="phục vụ" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1499">
+		<text>gà rất ngon , hơn hẳn kfc mc lotte ... .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="gà" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1501">
+		<text>ông chủ người hàn rất hiếu khách , trong quán ngày cuối tuần đa số là ngừoi hàn quốc .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="ông chủ" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1504">
+		<text>quán có không gian dễ thương , đồ ăn hàn quốc nổi bật là các món gà .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="không gian" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="các món gà" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1505">
+		<text>mình thấy không khí quán lúc nào cũng vui vui thế nào í .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="không khí" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1506">
+		<text>không gian bar độc đáo lạ mắt , phóng khoáng .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="không gian" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1507">
+		<text>món gà ngon nhưng chưa đa dạng phong phú lắm .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+			<Opinion category="RESTAURANT#GENERAL" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="món gà" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1509">
+		<text>lần đầu đến đây mình khá ấn tượng về cách trang trí , không gian đẹp chủ yếu là sử dụng tầng trên .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="trang trí" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="không gian" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1510">
+		<text>chú chủ quán ở đây người hàn nhưng nói tiếng việt cũng dữ dội lắm nha , rất là vui tính luôn đó còn nhân viên thì phục vụ nhiệt tình lắm .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="chú chủ quán" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="phục vụ" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1512">
+		<text>đồ ăn cũng ngon lắm các loại sốt rất vừa ăn , gà ăn ngon mà giá ở đây thì cũng tầm trung trở lên nhưng mà có điều đợi đồ ăn hơi phê !</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="đồ ăn" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="giá" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1513">
+		<text>lần đầu tiên đi ăn , nói chung không gian đẹp , nhạc hay , đồ ăn ngon mình ăn gà bbq sốt teriyái , khoai tây ở đây ngon hơn kfc nhiều với cơm kim chi ( hơi chua một tí ) ,</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="không gian" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="đồ ăn" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="khoai tây" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="cơm kim chi" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1514">
+		<text>phục vụ thì ok lắm ( ông chủ với nhân viên thân thiện ) tóm lại là sẽ quay lại.</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="phục vụ" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1516">
+		<text>ấn tượng đầu tiên là không gian quán hơi bừa bộn , bàn ghế cao như beerclub ấy .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="không gian" polarity="negative" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1517">
+		<text>mình thử gà chua ngọt .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="neutral" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="gà chua ngọt" polarity="neutral" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1519">
+		<text>sốt hàn quốc tự làm chua chua ăn kèm cánh gà ngon nhe .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="sốt hàn quốc" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1520">
+		<text>gà sốt chua ngọt cũng ngon .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="gà sốt chua ngọt" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1525">
+		<text>đồ ăn ngon nên cũng đỡ .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="đồ ăn" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1526">
+		<text>đi chỗ này được 3 lần , cái ấn tượng nhiều nhất vẫn là phục vụ cực kì thân thiện .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="phục vụ" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1527">
+		<text>lẩu hàn quốc tưởng nhỏ ai dè bự quá trời mà . lại cực kì cay và ngon .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="lẩu hàn quốc" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1528">
+		<text>tokkboki cũng cay cực kì .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="neutral" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="tokkboki" polarity="neutral" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1529">
+		<text>gà chiên bình thường thì không ngon nhưng tẩm sốt thì ăn cũng ok</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="gà chiên" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1530">
+		<text>giò heo thì ăn ngon mà chắc tại giò nên mỡ quá , sốt cay thì ngon , còn sốt kia thì mặn quá không ngon .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="neutral" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="giò heo" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="sốt cay" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1531">
+		<text>vẫn thích ăn khoai tây ở đây !</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="khoai tây" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1532">
+		<text>không gian quán không lớn lắm nhưng phong cách cũng được , máy lạnh mát</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="không gian" polarity="neutral" from="0" to="0"/>
+             <aspectTerm term="phong cách" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1533">
+		<text>nhân viên phục vụ nhiệt tình , ông chủ luôn chủ động hỏi thăm khác hàng , rót mời bia rất nhiệt tình với khách , vui tính</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="phục vụ" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="ông chủ" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1534">
+		<text>món ăn thực đơn ít món nhưng nhìn cũng hấp dẫn !</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+			<Opinion category="RESTAURANT#GENERAL" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="thực đơn" polarity="negative" from="0" to="0"/>
+             <aspectTerm term="món ăn" polarity="negative" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1536">
+		<text>giá cả đôi với mình giá đây hơi bị mắc</text>
+		<Opinions>
+			<Opinion category="FOOD#PRICES" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="giá cả" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1537">
+		<text>anh tuấn , đầu bếp chính của quán nói chuyện rất là dễ thương và thân thiện nên mẹ con mình rất thích .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="đầu bếp" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1541">
+		<text>chưa bao giờ đi ăn mà được phục vụ ân cần và quan tâm nhiều như của chủ quán và đầu bếp ở đây .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="phục vụ" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1543">
+		<text>sốt vàng vàng không biết là sốt gì nhưng vị chua chua ngọt ngọt ăn khá thích .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="sốt vàng vàng" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1544">
+		<text>sốt cam cam thì ngọt và mặn hơn chút , ăn ngon nữa .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="sốt cam cam" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1546">
+		<text>cánh gà thì giòn rụm , thịt nhiều .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="cánh gà" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1547">
+		<text>khuyết điểm duy nhất của món này là khẩu phần hơi bị nhiều .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="khẩu phần" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1551">
+		<text>khoai tây món này được anh tuấn cho dùng miễn phí .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="khoai tây" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1552">
+		<text>khoai tây chiên không giống kiểu khoai tây chiên thông thường mình hay ăn mà phải qua nhiều công đoạn lắm nha .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="khoai tây chiên" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1553">
+		<text>ngon nhất là chấm kèm với sốt mayo tỏi .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="chấm kèm" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="sốt mayo tỏi" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1554">
+		<text>nói túm lại , đồ ăn là không có gì phải chê ngoại trừ khẩu phần hơi bị nhiều .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="đồ ăn" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1555">
+		<text>phục vụ thì trên cả tuyệt vời , ăn uống mà cảm thấy rất vui vẻ luôn .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="phục vụ" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1556">
+		<text>giá cả rất hợp lý .</text>
+		<Opinions>
+			<Opinion category="FOOD#PRICES" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="giá cả" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1559">
+		<text>vì đậm gia vị , nên rất thích hợp làm đồ nhấm với beers .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="gia vị" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1560">
+		<text>ngoại trừ ông chủ đến từng bàn chào hỏi , và xoay tua nói chuyện với từng bạn , nên không khí rất vui ở đây .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="ông chủ" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1561">
+		<text>nhân viên thì lại hơi thụ động . . tí ti thôi .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="nhân viên" polarity="negative" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1563">
+		<text>không gian thoáng , vị trí cũng dễ tìm .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="không gian" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="vị trì" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1564">
+		<text>nhân viên thì có người ok , người không .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="neutral" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="nhân viên" polarity="neutral" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1568">
+		<text>vị ngon , gà dòn .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="vị" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="gà" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1569">
+		<text>khoai tây ở đây có vị lạ .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="khoai tây" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1570">
+		<text>gà ngon , phục vụ nhiệt tình , ông chủ vui tính .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="gà" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="phục vụ" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="ông chủ" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1571">
+		<text>gà rút xương ở đây rất ngon vị ướp rất thấm và hương vị rất ư là hàn quốc .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="cơm nắm" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1572">
+		<text>mì đen cũng ngon lắm lun .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="mì đen" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1573">
+		<text>mà điều mình thích là nhân viên thân thiện , đặc biệt là ông chủ ở đây tự bưng đồ ăn lên cho khách còn gắp đồ cho bàn mình nữa .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="nhân viên" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1574">
+		<text>ông chủ nói tiếng việt được nhưng nhiều lúc mình nghe không rõ chỉ cười trừ .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="ông chủ" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1576">
+		<text>giá thì theo mình có hơi mắc nhưng tiền nào của đó mà .</text>
+		<Opinions>
+			<Opinion category="FOOD#PRICES" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="giá" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1577">
+		<text>không gian đậm chất đường phố .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="không gian" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1578">
+		<text>kết quán này lắm rồi .</text>
+		<Opinions>
+			<Opinion category="RESTAURANT#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="quán" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1579">
+		<text>đến với barbos 1 ngày mưa , nhân viên ra đón rồi hướng dẫn lên lầu 2 .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="nhân viên" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1580">
+		<text>ấn tượng với chỗ này là có không gian ấm cúng , tối trên lầu có mở các thể loại nhạc hàn quốc .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="không gian" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1582">
+		<text>à còn có khoai tây bơ tỏi ăn nóng rất bùi và thơm nhưng khi để nguội thì không ngon nữa ( p / s các bạn nhớ ăn lúc còn nóng nhé ) .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="khoai tây bơ tỏi" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1583">
+		<text>nhân viên của quán thì nhiệt tình và luôn niềm nở với khách .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="nhân viên" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1586">
+		<text>lần đầu đến quán , mình ấn tượng với phong cách trang trí của quán , nhìn rất hay và phong cách , hợp với giới trẻ .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="phong cách trang trí" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1587">
+		<text>món gà chiên giòn gia vị gà mềm , lớp áo giòn , mặn mặn ngọt ngọt ok , ăn cái này mà uống bia là tuyệt</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="gà chiên giòn" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1588">
+		<text>món súp chả cá bởi vì mình vô cùng mê, cái món chả cá nên nấu kiểu j mình cũng thấy ngon</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="súp chả cá" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1589">
+		<text>điểm cộng nữa của quán là nhân viên boss vô cùng nhiệt tình và thân thiện .</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="nhân viên" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1591">
+		<text>nhà hàng có hai tầng , khá thoải mái , được trang trí một số tranh 3d trên tường và dưới đất.</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="nhà hàng" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1592">
+		<text>gà ngọt thì cực kì cực kì ngon , thịt tươi , xốt ngon ngọt , ăn rồi chỉ muốn ăn nữa</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="gà ngọt" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1593">
+		<text>gà cay thì phải nói là siêu cay , mình chỉ ăn được hai ba miếng dù nó cũng rất ngon, nó cay gấp 3 lần gà siêu cay ở bbq chicken ấy</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="gà cay" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1594">
+		<text>canh kim chi cũng rất ngon</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="canh kim chi" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1595">
+		<text>kim chi hơi chua nhưng vẫn ok , ăn vào ấm bụng lăma hehee.</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="kim chi" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1597">
+		<text>anh chủ quán là người hàn , nói tiếng việt lơ lớ nhưng cực kỳ nhiệt tình nhé !</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="anh chủ quán" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1599">
+		<text>rất hài lòng với chất lượng tại đây , địa điểm thú vị để tụ tập # han quoc # kim chi # q1</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="chất lượng" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1600">
+		<text>lần thứ hai ghé quán , kỳ này thử thêm món thịt ba chỉ xông khói , cay , ít mỡ và rất thơm , trình bày cũng đẹp mắt .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="món thịt ba chỉ xông khói" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="trình bày" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1601">
+		<text>gà nướng thì hơi khô một chút .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="gà nướng" polarity="negative" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1602">
+		<text>gà chiên cực giòn , bên trong mềm , sốt ngọt ngọt áo ngoài ăn là ghiền .</text>
+		<Opinions>
+			<Opinion category="FOOD#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="gà chiên" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1606">
+		<text>gà hàn cuốc với ông chủ kì cục . )</text>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="negative" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="ông chủ" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1610">
+		<text>về vị trí nhà hàng nằm trên đường lê thị riêng , dễ tìm , đường một chiều , nằm bên tay trái của hướng đi .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="về vị" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1611">
+		<text>không gian và phục vụ nhà hàng có bảo vệ giữ xe , nhân viên đón tiếp và hướng dẫn rất nhiệt tình .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+			<Opinion category="SERVICE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="không gian" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="bảo vệ" polarity="positive" from="0" to="0"/>
+             <aspectTerm term="nhân viênn" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+
+	<sentence id="1612">
+		<text>nhà hàng bày trí không cố gắng tận dụng diện tích , mà tạo không gian thoải mái cho từng bàn ăn .</text>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive" target="NULL" from="0" to="0"/>
+		</Opinions>
+ 		<aspectTerms>
+             <aspectTerm term="bày trí" polarity="positive" from="0" to="0"/>
+        </aspectTerms>
+	</sentence>
+</sentences>
