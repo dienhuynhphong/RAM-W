@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sentences>
+    <sentence id="3121">
+        <text>But the staff was so horrible to us.</text>
+        <aspectTerms>
+            <aspectTerm term="staff" polarity="negative" from="8" to="13"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="service" polarity="negative"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="2777">
+        <text>To be completely fair, the only redeeming factor was the food, which was above average, but couldn't make up for all the other deficiencies of Teodora.</text>
+        <aspectTerms>
+            <aspectTerm term="food" polarity="positive" from="57" to="61"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="food" polarity="positive"/>
+            <aspectCategory category="anecdotes/miscellaneous" polarity="negative"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="1634">
+        <text>The food is uniformly exceptional, with a very capable kitchen which will proudly whip up whatever you feel like eating, whether it's on the menu or not.</text>
+        <aspectTerms>
+            <aspectTerm term="food" polarity="positive" from="4" to="8"/>
+            <aspectTerm term="kitchen" polarity="positive" from="55" to="62"/>
+            <aspectTerm term="menu" polarity="neutral" from="141" to="145"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="food" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="2534">
+        <text>Where Gabriela personaly greets you and recommends you what to eat.</text>
+        <aspectCategories>
+            <aspectCategory category="service" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="583">
+        <text>For those that go once and don't enjoy it, all I can say is that they just don't get it.</text>
+        <aspectCategories>
+            <aspectCategory category="anecdotes/miscellaneous" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="2846">
+        <text>Not only was the food outstanding, but the little 'perks' were great.</text>
+        <aspectTerms>
+            <aspectTerm term="food" polarity="positive" from="17" to="21"/>
+            <aspectTerm term="perks" polarity="positive" from="51" to="56"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="food" polarity="positive"/>
+            <aspectCategory category="service" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+</sentences>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sentences>
+    <sentence id="32897564#894393#2">
+        <text>The bread is top notch as well.</text>
+        <aspectTerms>
+            <aspectTerm term="bread" polarity="positive"  from="4" to="9"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="food" polarity="positive" />
+        </aspectCategories>
+    </sentence>
+    <sentence id="33070600#670328#0">
+        <text>I have to say they have one of the fastest delivery times in the city.</text>
+        <aspectTerms>
+            <aspectTerm term="delivery times" polarity="positive"  from="43" to="57"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="service" polarity="positive" />
+        </aspectCategories>
+    </sentence>
+</sentences>
