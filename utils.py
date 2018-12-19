@@ -162,20 +162,20 @@ def get_loc_info(sptoks, from_id, to_id, sentiment_data, t_sptoks):
 	        break
 
     #Cap nhat lai tinh danh gia
-    countasp = 1
-    for _i, sptok in enumerate(sptoks):
-	
-	with open(sentiment_data, 'rb') as f:
-       	    for line in f:
-            	line = line.decode('utf-8')
-            	content = line.strip()
+#    countasp = 1
+#    for _i, sptok in enumerate(sptoks):
+#	
+#	with open(sentiment_data, 'rb') as f:
+#       	    for line in f:
+#            	line = line.decode('utf-8')
+#            	content = line.strip()
 		#print('content la %s' % content)
 		#print('sptok la %s' % sptok)
-            	if content == str(sptok):
-		    weight = maxW + (0.05*1.0/countasp)
-		    loc_info[_i] = weight
-		    countasp+=1
-		    break
+#            	if content == str(sptok):
+#		    weight = maxW + (0.05*1.0/countasp)
+#		    loc_info[_i] = weight
+#		    countasp+=1
+#		    break
 
     return loc_info
 
